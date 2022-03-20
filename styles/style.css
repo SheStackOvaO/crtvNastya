@@ -5,7 +5,7 @@ body {
 .main-block {
     width: 300px;
     height: 150px;
-    background-color: deepskyblue;
+    background-color: #fff200;
     display: flex;
     align-items: center;
     justify-content: center;
